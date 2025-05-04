@@ -1,4 +1,11 @@
-# Write-up-TryHackMe-All-in-One
+# TryHackMe - All-in-One Walkthrough
+
+This write-up covers the steps I took to complete the "All-in-One(https://tryhackme.com/room/allinonemj)" room on TryHackMe.  
+The machine focuses on WordPress exploitation, LFI, privilege escalation, and is a great challenge for anyone looking to sharpen their penetration testing skills.
+
+Below you'll find the full process I followed — from enumeration to privilege escalation.
+
+> ⚠️ This write-up contains spoilers. Proceed only if you've already tried the machine or are stuck.
 
 # 1. Port Scanning
 👁️ Using nmap:
