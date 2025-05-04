@@ -82,7 +82,8 @@ http://10.10.49.154/wordpress/wp-content/themes/twentytwenty/404.php
 #  Privilege Escalation
 We inspect config files:
 ```python
-cat /etc/mysql/conf.d
+cd /etc/mysql/conf.d
+cat private.txt
 ````
 Found additional credentials:
 ```python
